@@ -1,11 +1,50 @@
-# Face_Detection
-Face Detection with Emgucv and C#
 
-Face_Detect
-It is a face recognition application using the Haar-cascade classifier algorithm. Written in EmguCv using C# language.
+# Face Detection
 
-! Install the Aforge.Direct.Show package for camera use.
+Face detection with C# and EmguCV
 
-!Install version 4.11.3497 of Emgu.CV package to manipulate the image
+Hello everyone, The easiest way to detect face is to use Haar Cascades. We will do face detection using haar cascades classifier in C#. You can get images on C# with EmguCV.
 
-!Edit the properties by throwing the haarcascade_frontalface_alt_tree file into the solution. (Build Action: Content / Copy to Output Directory : Copy Always)
+
+
+## Run it on your computer
+
+Clone the project
+
+```bash
+  git clone https://github.com/4thAhmet/Face_Recognition
+```
+
+Go to the project directory
+
+```bash
+  cd Face_Recognition
+```
+
+Gerekli paketleri yükleyin
+
+```bash
+    Install the Visual Studio 2022
+    Install the Aforge.Direct.Show package for camera use.
+    Install version 4.11.3497 of Emgu.CV package to manipulate the image
+```
+
+Run the solution.
+
+```bash
+  Run FaceDetection.sln
+```
+Build the project and get started
+
+```bash
+  press F5
+```
+
+
+
+## What did I learn?
+
+This project was done in the learning phase. With this project, I learned the Haar Cascade classifier and performed face recognition.
+I learned to use the Emgucv library and to perform operations on the image. I realized this project with C#.
+
+  
