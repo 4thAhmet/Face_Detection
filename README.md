@@ -21,7 +21,7 @@ Go to the project directory
   cd Face_Recognition
 ```
 
-Gerekli paketleri yükleyin
+Download the packages
 
 ```bash
     Install the Visual Studio 2022
